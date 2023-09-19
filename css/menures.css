@@ -1,5 +1,5 @@
 /*VISUALIZZAZIONE MOBILE VERTICALE*/
-@media (max-width: 500px)
+@media (max-width: 600px)
 {
     body {
         background-color: #fff;
@@ -62,7 +62,7 @@ margin-top: 5px;
 div.card1 {
     margin: 0;
     padding: 0;
-width: 500px;
+width: auto;
 height: max-content;
 background-color: #184108;
 }

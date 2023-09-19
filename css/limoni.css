@@ -649,7 +649,6 @@ div.contatti h5 {
                 width: 100%;
                 height: 216px;;
                 object-fit: cover;
-                margin-top: 50px;
             }
             
             div.testo h1 {
@@ -661,8 +660,8 @@ div.contatti h5 {
                 line-height: 80px;
             margin: 0;
                 bottom: 0;
-                margin-left: 48px;
                 margin-top: 35px;
+                width: 400px;
             }
             
             div.testo h2 {
@@ -672,7 +671,7 @@ div.contatti h5 {
         font-style: normal;
         font-weight: 400;
         line-height: 80px;
-        margin-left: 48px;
+        width: 400px;
             }
 
             div.testo p {
@@ -680,7 +679,8 @@ div.contatti h5 {
                 height: 121px;
                 color: #FFF;
                 margin-top: 40px;
-                margin-left: 48px;
+                margin-left: auto;
+                margin-right: auto;
                 margin-bottom: 110px;
                 color: #FFF;
                 font-family: 'Inter';
@@ -695,6 +695,9 @@ div.contatti h5 {
                 margin: 0;
                 width: 400px;
                 height: auto;
+                margin-left: auto;
+                margin-right: auto;
+     
             }
 
 
@@ -714,7 +717,8 @@ div.contatti h5 {
                 div.card2 img {
                     margin: 0;
                     bottom: 0;
-                    margin-left: 66px;
+                    margin-left: auto;
+                    margin-right: auto;
                     margin-top: 97px;
                     width: 369px;
                     height: 215px;
@@ -733,7 +737,6 @@ div.contatti h5 {
                     margin: 0;
                     bottom: 0;
                     margin-top: 20px;
-                    margin-left: 50px;
                     order: 1;
                   
                 }
@@ -744,7 +747,6 @@ div.contatti h5 {
                     color: #000;
                     margin: 0;
                     padding: 0;
-                    margin-left: 50px;
                     margin-top: 35px; 
                     margin-bottom: 96px;           
                     color: #000;
@@ -757,8 +759,10 @@ div.contatti h5 {
                 }
                 
                 div.testo2 {
+                    margin: 0;
                 bottom: 0;
-                margin: 0;
+                margin-right: auto;
+                margin-left: auto;
                 }
     
     
@@ -780,7 +784,8 @@ div.contatti h5 {
                         bottom: 0;
                         width: 358px;
                         height: 209px;
-                        margin-left: 71px;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 81px;
                        object-fit: scale-down;
                        order: 2;
@@ -797,7 +802,6 @@ div.contatti h5 {
                         margin: 0;
                         bottom: 0;
                         margin-top: 20px;
-                        margin-left: 50px;
                         order: 1;
                       
                     }
@@ -808,7 +812,6 @@ div.contatti h5 {
                         color: #fff;
                         margin: 0;
                         padding: 0;
-                        margin-left: 50px;
                         margin-top: 35px;            
                         color: #fff;
                         font-family: 'Inter';
@@ -823,6 +826,8 @@ div.contatti h5 {
                     div.testo3 {
                     bottom: 0;
                     margin: 0;
+                    margin-left: auto;
+                    margin-right: auto;
                     }
         
 
@@ -845,7 +850,8 @@ div.contatti h5 {
                             bottom: 0;
                             width: 304px;
                             height: 269px;
-                            margin-left: 98px;
+                            margin-left: auto;
+                            margin-right: auto;
                             margin-top: 49px;
                            object-fit: scale-down;
                            order: 2;
@@ -862,7 +868,6 @@ div.contatti h5 {
                             bottom: 0;
                             width: 203px;
                             margin-top: 20px;
-                            margin-left: 50px;
                             order: 1;
                           
                         }
@@ -873,7 +878,6 @@ div.contatti h5 {
                             color:#000;
                             margin: 0;
                             padding: 0;
-                            margin-left: 50px;
                             margin-top: 35px;
                             margin-bottom: 70px;
                         
@@ -890,6 +894,8 @@ div.contatti h5 {
                         div.testo4 {
                         bottom: 0;
                         margin: 0;
+                        margin-left: auto;
+                        margin-right: auto;
                         }
         
         
@@ -913,7 +919,8 @@ div.contatti h5 {
                         bottom: 0;
                         width: 353px;
                         height: 247px;
-                        margin-left: 74px;
+                        margin-left: auto;
+                        margin-right: auto;
                         margin-top: 71px;
                        object-fit:cover;
                        order: 2;
@@ -930,27 +937,24 @@ div.contatti h5 {
                         margin: 0;
                         bottom: 0;
                         margin-top: 20px;
-                        margin-left: 50px;
                         order: 1;
                       
                     }
                     
                     div.card5 p {
                         width: 400px;
-                        height: auto;
-                        color: #fff;
-                        margin: 0;
-                        padding: 0;
-                        margin-left: 50px;
-                        margin-top: 35x;
-                        margin-bottom: 71px;
-                    
-                        color: #fff;
-                        font-family: 'Inter';
-                        font-size: 18px;
-                        font-style: normal;
-                        font-weight: 400;
-                        line-height: 125%;
+                            height: auto;
+                            color:#FFF;
+                            margin: 0;
+                            padding: 0;
+                            margin-top: 35px;
+                            margin-bottom: 70px;
+                        
+                            font-family: 'Inter';
+                            font-size: 18px;
+                            font-style: normal;
+                            font-weight: 400;
+                            line-height: 125%;
                         order: 3;
                        
         
@@ -959,6 +963,8 @@ div.contatti h5 {
                     div.testo5 {
                     bottom: 0;
                     margin: 0;
+                    margin-right: auto;
+                    margin-left: auto;
                     }
 
 
