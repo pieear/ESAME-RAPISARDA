@@ -1,3 +1,4 @@
+@import url(font.css);
 
 
 /*VISUALIZZAZIONE MOBILE VERTICALE*/
@@ -5,6 +6,7 @@
 
 {
     @import url(font.css);
+    
 
     body {
         background-color: #fff;
