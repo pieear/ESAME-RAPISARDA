@@ -685,6 +685,8 @@ div.contatti h5 {
             height: 216px;
             object-fit: cover;
             margin-top: 50px;
+            margin-left: auto;
+            margin-right: auto;
         }
         
         div.testo h1 {
@@ -696,7 +698,6 @@ div.contatti h5 {
         line-height: 80px;
         margin: 0;
         bottom: 0;
-        margin-left: 48px;
         margin-top: 35px;
         width: 400px;
         }
@@ -705,7 +706,6 @@ div.contatti h5 {
             width: 400px;
                 height: 15px;
                 color: #FFF;
-                margin-left: 48px;
                 margin-bottom: 60px;
                 color: #FFF;
                 font-family: 'Inter';
@@ -718,6 +718,10 @@ div.contatti h5 {
         div.testo {
             bottom: 0;
             margin: 0;
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+
         }
 
 
@@ -735,7 +739,6 @@ div.contatti h5 {
             margin: 0;
             bottom: 0;
             margin-top: 61px;
-            margin-left: 50px;
             width: 400px;
         }
         
@@ -748,13 +751,14 @@ div.contatti h5 {
             font-style: normal;
             font-weight: 400;
             line-height: normal;
-            margin-left: 50px;
         }
         
         div.card2 {
             margin: 0;
             padding: 0;
             width: 400px;
+            margin-right: auto;
+            margin-left: auto;
         }
 
 
@@ -766,12 +770,10 @@ div.contatti h5 {
             font-style: normal;
             font-weight: 700;
             line-height: normal;
-            width: 338px;
             height: auto;
             margin: 0;
             bottom: 0;
             margin-top: 50px;
-            margin-left: 50px;
             width: 400px;
         }
         
@@ -784,13 +786,15 @@ div.contatti h5 {
             font-style: normal;
             font-weight: 400;
             line-height: normal;
-            margin-left: 50px;
         }
         
         div.card3 {
             margin: 0;
             padding: 0;
             width: 400px;
+            margin-right: auto;
+            margin-left: auto;
+
         }
 
 
@@ -803,12 +807,10 @@ div.contatti h5 {
             font-style: normal;
             font-weight: 700;
             line-height: normal;
-            width: 338px;
             height: auto;
             margin: 0;
             bottom: 0;
             margin-top: 50px;
-            margin-left: 50px;
             width: 400px;
         }
         
@@ -821,13 +823,15 @@ div.contatti h5 {
             font-style: normal;
             font-weight: 400;
             line-height: normal;
-            margin-left: 50px;
         }
         
         div.card4 {
             margin: 0;
             padding: 0;
             width: 400px;
+            margin-right: auto;
+            margin-left: auto;
+
         }
 
 
@@ -840,8 +844,10 @@ div.contatti h5 {
             line-height: normal;
             margin: 0;
             bottom: 0;
-            margin-left: 50px;
             margin-top: 57px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 400px;
         }
 
 
@@ -859,7 +865,12 @@ div.contatti h5 {
             margin: 0;
             padding: 0 0 0 15px;
             margin-top: 21.5px;
-            margin-left: 50px;
+        }
+
+        div.card6 form{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         div.card7 input{
@@ -876,7 +887,12 @@ div.contatti h5 {
             margin: 0;
             padding: 0 0 0 15px;
             margin-top: 11px;
-            margin-left: 50px;
+        }
+
+        div.card7 form{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         div.card8 input{
@@ -893,9 +909,13 @@ div.contatti h5 {
             margin: 0;
             padding: 0 0 0 15px;
             margin-top: 11px;
-            margin-left: 50px;
         }
 
+        div.card8 form{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
         div.card10 input{
             width: 400px;
@@ -911,7 +931,11 @@ div.contatti h5 {
             margin: 0;
             padding: 0 0 0 15px;
             margin-top: 11px;
-            margin-left: 50px;
+        }
+        div.card10 form{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         div.card11 input{
@@ -929,10 +953,13 @@ div.contatti h5 {
             padding-left: 15px;
             padding-top: 10px;
             margin-top: 11px;
-            margin-left: 50px;
         }
 
-
+        div.card11 form{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
         div.card12 h6{
             width: 400px;
@@ -945,7 +972,6 @@ div.contatti h5 {
             line-height: normal;
             margin: 0;
             margin-top: 58px;
-            margin-left: 50px;
             padding: 0;
         }
         
@@ -960,8 +986,13 @@ div.contatti h5 {
         line-height: 125%;
         margin: 0;
         margin-top: 25px;
-        margin-left: 50px;
         padding: 0;
+        }
+
+        div.testo12{
+            width: 400px;
+            margin-right: auto;
+            margin-left: auto;
         }
 
         div.card12 form {
@@ -973,8 +1004,10 @@ div.contatti h5 {
             line-height: normal;
             margin: 0;
             bottom: 0;
-            margin-left: 50px;
+            margin-left: auto;
+            margin-right: auto;
             margin-top: 20px;
+            width: 400px;
         }
 
 
@@ -989,8 +1022,16 @@ div.contatti h5 {
         line-height: 125%;
         margin: 0;
         margin-top: 32px;
-        margin-left: 50px;
         padding: 0;
+        }
+
+        div.card13 p{
+            margin: 0;
+            padding: 0;
+            width: 400px;
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 32px;
         }
 
         div.card13 form {
@@ -1002,8 +1043,11 @@ div.contatti h5 {
             line-height: normal;
             margin: 0;
             bottom: 0;
-            margin-left: 50px;
             margin-top: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 400px;
+
         }
 
         div.card14 p{
@@ -1017,8 +1061,16 @@ div.contatti h5 {
         line-height: 125%;
         margin: 0;
         margin-top: 32px;
-        margin-left: 50px;
         padding: 0;
+        }
+
+        div.card14 p{
+            margin: 0;
+            padding: 0;
+            width: 400px;
+            margin-right: auto;
+            margin-left: auto;
+            margin-top: 32px;
         }
 
         div.card14 form {
@@ -1030,7 +1082,9 @@ div.contatti h5 {
             line-height: normal;
             margin: 0;
             bottom: 0;
-            margin-left: 50px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 400px;
             margin-top: 20px;
         }
 
@@ -1054,9 +1108,14 @@ div.contatti h5 {
             text-decoration: none;
             margin: 0;
             margin-top: 32px;
-            margin-left: 50px;
             margin-bottom: 60px;
             transition: none;
+        }
+
+        div.card15{
+            width: 400px;
+            margin-left: auto;
+            margin-right: auto;
         }
 
         #b1:hover{
